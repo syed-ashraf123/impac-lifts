@@ -27,7 +27,7 @@ SECRET_KEY = '*yrj7g-k*i55za8&_4kpft@$$60nkq8*h%p%-d6(c)id8q2n+g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['impac-lift.herokuapp.com','127.0.0.1','impaclift.com']
+ALLOWED_HOSTS = ['impac-lift.herokuapp.com','127.0.0.1','impaclift.com',"*","www.impaclift.com"]
 
 
 # Application definition
